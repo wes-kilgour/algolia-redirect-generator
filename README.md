@@ -12,9 +12,8 @@ The Redirect Generator is a Rust program that accepts a CSV file as input and ge
 
 The CSV file should contain a 'search term' and a 'redirect url' in each row. Here's an example:
 
-search term,redirect url
-air conditioning,/air-conditioning-101-0000
-air purifier,/air-purifiers-and-sanitisers-31-0000
+```csv
+```
 
 ## Output
 
